@@ -47,11 +47,3 @@ The following hyperparameters were tuned to find the best performance:
 - `results/`: Contains the AUC and accuracy results for each set of hyperparameters tested.
 - `README.md`: This file, providing an overview of the project and results.
 
-## Installation
-
-To run this project, clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/yourusername/bayesian-game-theory.git
-cd bayesian-game-theory
-pip install -r requirements.txt
