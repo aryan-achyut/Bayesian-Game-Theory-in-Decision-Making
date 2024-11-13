@@ -39,11 +39,4 @@ The following hyperparameters were tuned to find the best performance:
   - Exploration Factor: 0.5
 - The adversary payoff was 50, while the model's payoff was 155, demonstrating a robust performance in decision-making.
 
-## Files and Structure
-
-- `model.py`: Contains the implementation of the decision-making model and Bayesian updating process.
-- `adversary.py`: Defines the adversary’s decision-making logic in the game.
-- `hyperparameter_tuning.py`: Script for tuning the learning rate, decay factor, and exploration factor.
-- `results/`: Contains the AUC and accuracy results for each set of hyperparameters tested.
-- `README.md`: This file, providing an overview of the project and results.
 
